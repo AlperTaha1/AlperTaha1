@@ -29,8 +29,9 @@ I'm a **Computer Engineering Student** at **Erciyes University** and a passionat
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlperTaha1&show_icons=true&theme=dark&hide_border=true&locale=en" alt="AlperTaha1's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperTaha1&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlperTaha1&theme=dark&hide_border=true" alt="AlperTaha1" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperTaha1&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
