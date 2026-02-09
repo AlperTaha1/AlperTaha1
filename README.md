@@ -2,10 +2,10 @@
 
 I'm a **Computer Engineering Student** at **Erciyes University** and a passionate **Backend Developer** based in Turkey. I love building robust systems using **Java** and **Spring Boot**.
 
-- 🔭 I’m currently working on **Mini E-Commerce Backend System**
-- 🌱 I’m currently learning **Advanced OOP, Microservices & System Design**
-- 🎓 I’m looking for **Short-term Internship (2026)** opportunities in Backend Development.
-- ⚡ I developed a banking simulation that processes ACID transactions!
+- I’m currently working on **Mini E-Commerce Backend System**
+- I’m currently learning **Advanced OOP, Microservices & System Design**
+- I’m looking for **Short-term Internship (2026)** opportunities in Backend Development.
+- I developed a banking simulation that processes ACID transactions!
 
 ---
 
@@ -29,8 +29,8 @@ I'm a **Computer Engineering Student** at **Erciyes University** and a passionat
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlperTaha1&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="AlperTaha1's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperTaha1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlperTaha1&show_icons=true&theme=dark&hide_border=true&locale=en" alt="AlperTaha1's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperTaha1&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="400" />
 </p>
 
 ---
